@@ -1,7 +1,7 @@
 # ipmap creator
 
 ## Description
-ipmap creator is an open source tool for creating network flow map.
+ipmap creator is an open source tool for creating network flow map from wireshark .pcap file.
 
 ## Main features
 * two modes for display data:
