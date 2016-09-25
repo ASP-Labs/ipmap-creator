@@ -11,7 +11,7 @@ ipmap creator is an open source tool for creating network flow map from wireshar
 ![Merged example](/screen1.png)
 * save result file to .svg format
 * selectable source/destination IPs and ports
-
+* use maps_creator_term.py for terminal version of programm
 ## Installation
 * These are the packages that are required to build different python libraries. Install them with apt:
   * sudo apt-get install python-pip python-dev pyqt4-dev-tools
